@@ -1,1 +1,3 @@
+# Exclude Mac OSX useless files
+
 .DS_Store
